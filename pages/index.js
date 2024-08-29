@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Conhecimento nunca é de menos</h1>
+    return <h1>Deveras, conhecimento nunca é de menos!</h1>
 }
 
 export default Home;
